@@ -1,0 +1,6 @@
+framework module HTClassScrollViewCustomLayout {
+  umbrella header "HTClassScrollViewCustomLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

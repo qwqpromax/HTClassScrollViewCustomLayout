@@ -1,0 +1,16 @@
+PODS:
+  - HTClassScrollViewCustomLayout (0.1.0)
+
+DEPENDENCIES:
+  - HTClassScrollViewCustomLayout (from `../`)
+
+EXTERNAL SOURCES:
+  HTClassScrollViewCustomLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTClassScrollViewCustomLayout: 35d175f520b7e16729c47be4950fa94d38f4b4ff
+
+PODFILE CHECKSUM: fd0c0d1e07269d1908b8d0710354c78b869ad704
+
+COCOAPODS: 1.14.3
