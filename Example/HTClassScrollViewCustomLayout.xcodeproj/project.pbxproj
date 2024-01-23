@@ -61,11 +61,10 @@
 		856892426F1B5717111F69E3 /* Pods-HTClassScrollViewCustomLayout_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTClassScrollViewCustomLayout_Tests.debug.xcconfig"; path = "Target Support Files/Pods-HTClassScrollViewCustomLayout_Tests/Pods-HTClassScrollViewCustomLayout_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		865331901382CEC12CBDDE7F /* Pods-HTClassScrollViewCustomLayout_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTClassScrollViewCustomLayout_Tests.release.xcconfig"; path = "Target Support Files/Pods-HTClassScrollViewCustomLayout_Tests/Pods-HTClassScrollViewCustomLayout_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		87A83E646295CFE5F8846CA1 /* HTClassScrollViewCustomLayout.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HTClassScrollViewCustomLayout.podspec; path = ../HTClassScrollViewCustomLayout.podspec; sourceTree = "<group>"; };
-		911E324C23DB6A47D51E4879 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		87A83E646295CFE5F8846CA1 /* HTClassScrollViewCustomLayout.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HTClassScrollViewCustomLayout.podspec; path = ../HTClassScrollViewCustomLayout.podspec; sourceTree = "<group>"; };
+		911E324C23DB6A47D51E4879 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A22C7F6D8A7AD2F63AF49E9D /* Pods-HTClassScrollViewCustomLayout_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTClassScrollViewCustomLayout_Example.debug.xcconfig"; path = "Target Support Files/Pods-HTClassScrollViewCustomLayout_Example/Pods-HTClassScrollViewCustomLayout_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E67694F7D2FBA089AE467170 /* Pods_HTClassScrollViewCustomLayout_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HTClassScrollViewCustomLayout_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EEBE4F2EB1D014519C654BD2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		F45527BBA1E41F200DEEF49F /* Pods_HTClassScrollViewCustomLayout_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HTClassScrollViewCustomLayout_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -103,7 +102,6 @@
 				856892426F1B5717111F69E3 /* Pods-HTClassScrollViewCustomLayout_Tests.debug.xcconfig */,
 				865331901382CEC12CBDDE7F /* Pods-HTClassScrollViewCustomLayout_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -192,7 +190,6 @@
 			children = (
 				87A83E646295CFE5F8846CA1 /* HTClassScrollViewCustomLayout.podspec */,
 				911E324C23DB6A47D51E4879 /* README.md */,
-				EEBE4F2EB1D014519C654BD2 /* LICENSE */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -258,6 +255,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
